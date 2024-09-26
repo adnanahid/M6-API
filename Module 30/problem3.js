@@ -1,0 +1,1 @@
+write an arrow function where it woll do the  following: x
